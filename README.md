@@ -14,9 +14,13 @@ This is a Laravel application integrated with **Firebase Cloud Messaging (FCM)**
 
 ---
 
-## Mobile Push Notification
+## 📱 Mobile Push Notification
+
+## 📱 Mobile Push Notification
+
 <p align="center">
-  <img src="public/notification.png"   >
+  <img src="public/notification1.png" width="200" height="450" alt="Notification Example 1" />
+  <img src="public/notification2.png" width="200" height="450" alt="Notification Example 2" />
 </p>
 
 
